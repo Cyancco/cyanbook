@@ -1,2 +1,2 @@
 # cyanbook
-自动化构建 demo
+GitBook 自动化构建 demo
