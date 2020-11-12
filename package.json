@@ -1,0 +1,23 @@
+{
+  "name": "cyanbook",
+  "version": "1.0.0",
+  "description": "GitBook 自动化构建 demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyancco/cyanbook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cyancco/cyanbook/issues"
+  },
+  "homepage": "https://github.com/Cyancco/cyanbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
